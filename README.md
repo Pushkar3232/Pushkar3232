@@ -15,7 +15,7 @@ I'm an **AI/ML Developer** passionate about creating intelligent systems and sol
 ---
 
 ## 💼 Featured Project
-### [🔒 Private AI](https://github.com/your-repo-link)  
+### [🔒 Private AI](https://github.com/Pushkar3232/Private-AI)  
 - **Offline, Secure, and Customizable AI System**  
 - Designed to ensure data privacy by running locally.  
 - Delivers personalized answers while maintaining full security.
@@ -47,8 +47,8 @@ I'm an **AI/ML Developer** passionate about creating intelligent systems and sol
 ---
 
 ## 🛠️ GitHub Stats & Badges  
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarshinde&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarshinde&layout=compact&theme=dark)  
+![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushkar3232&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar3232&layout=compact&theme=dark)  
 
 ---
 
