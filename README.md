@@ -8,9 +8,9 @@ I'm an **AI/ML Developer** passionate about creating intelligent systems and sol
 
 ## 🔧 Technologies & Skills
 - **Programming Languages**: Python  
-- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **AI/ML Tools**: PyTorch, Scikit-learn, OpenCV  
 - **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Jupyter Notebook  
-- **Other Tools**: Flask, SQL, Git, Docker  
+- **Other Tools**: Flask, SQL, Git
 
 ---
 
