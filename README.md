@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Pushkar Shinde!
 
-<h2>**_"I Build Brains for Machines."_**</h2>
-
+## **_"I Build Brains for Machines."_**
 I'm an **AI/ML Developer** passionate about creating intelligent systems and solving challenging problems. With expertise in **Python** and a strong focus on **Data Science**, I thrive on designing innovative solutions and thinking outside the box.
 
 ---
