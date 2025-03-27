@@ -64,8 +64,19 @@ Here are the technologies and tools I work with:
 ---
 
 ## 🛠️ GitHub Stats & Badges  
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pushkar3232&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar3232&layout=compact&theme=dark)  
+
+<table>
+  <tr>
+    <!-- Top Languages Card -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar3232&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+    <!-- GitHub Stats Card -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pushkar3232&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
